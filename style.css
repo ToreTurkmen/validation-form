@@ -1,0 +1,40 @@
+*{
+  margin: o;
+  padding: 0;
+}
+body{
+  background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+.container{
+  width: 380px;
+  background:white;
+  margin: 130px 0px 0px 490px;
+  height: 60vh;
+  text-align: center;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 20px;
+}
+input{
+  width: 300px;
+  height: 6vh;
+  margin: 15px;
+}
+#btn{
+  height: 7vh;
+  background: linear-gradient(to right, #00dbde, #fc00ff);
+  border: 0;
+  font-weight: bold;
+  font-size: 17px;
+  color: white;
+
+}
+#btn:hover{
+  background: linear-gradient(to right,#fc00ff, #00dbde);
+}
+p{
+  color: red;
+  font-size: 17px;
+  margin-left: -100px;
+}
